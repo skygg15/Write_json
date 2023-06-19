@@ -1,0 +1,19 @@
+В каких странах Григорий был
+{
+
+“name”: “gregory”,
+
+“countries”: [“France”, “Turkey”]
+
+}
+
+….
+
+Что есть в городе Подольске?
+}
+
+“place”: “Podolsk”
+
+“cities: [“lenin square”, “market”]
+
+}
